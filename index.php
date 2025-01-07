@@ -248,7 +248,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <div class="header-content">
             <h1>Free Fire Tournament</h1>
             <div class="header-buttons">
-                <button onclick="window.location.href='https://your-blog-url.com'">Open QR</button>
+                <button onclick="window.location.href='https://i.ibb.co/wMyq20V/IMG-20250107-WA0031.jpg'">Open QR</button>
                 <button onclick="window.location.href='https://t.me/fftournamentsbsp'">Join Telegram</button>
             </div>
         </div>
